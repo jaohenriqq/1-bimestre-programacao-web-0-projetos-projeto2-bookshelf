@@ -9,14 +9,24 @@
 .introdução{
     text-align: center;
 }
-.botao-preto{
-    text-align: center;
-    border-radius: 100px;
-}
 .botao{
     border-radius: 100px;
     color: rgb(255, 255, 255);
     background-color: rgb(0, 0, 0);
-
-   
+    height: 40px;
+    width: 100px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+.introdução img {
+    height: 400px;
+    width: 400px;
+}
+.botoes-azul{
+    border-radius: 100px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(89, 140, 251);
+    height: 40px;
+    width: 110px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
