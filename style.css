@@ -24,9 +24,12 @@
 .botoes-azul{
     border-radius: 100px;
     color: rgb(255, 255, 255);
-    background-color: rgb(89, 140, 251);
+    background-color: rgb(57, 118, 250);
     height: 40px;
     width: 110px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.final{
+    text-align: center;
 }
 
